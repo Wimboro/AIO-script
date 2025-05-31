@@ -21,7 +21,7 @@ Welcome to the **HIDDEN CYBER** setup script — a powerful, automated installat
 ## Usage
 
 ```bash
-wget https://github.com/Wimborojamuvps/raw/main/jamu.sh -O jamu.sh && chmod +x jamu.sh && ./jamu.sh
+wget https://github.com/Wimboro/AIO-script/raw/main/aio.sh -O aio.sh && chmod +x aio.sh && ./aio.sh
 ```
 
 > **Note:** Root or sudo privileges are required to perform installations.
@@ -41,3 +41,4 @@ This project is open source under the MIT License. Feel free to fork, modify, an
 ---
 
 **Crafted with 💻 by HIDDEN CYBER**
+**Fork from rokipdj88/jamuvps**
