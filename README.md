@@ -1,4 +1,4 @@
-# HIDDEN CYBER Installer
+# AIO Installer
 
 Welcome to the **HIDDEN CYBER** setup script — a powerful, automated installation tool for essential development tools and environments on Ubuntu-based systems.
 
