@@ -1,4 +1,7 @@
 <!-- GitAds-Verify: MNWAWW434KY93EKQLA6WO5J5R7JVEEE6 -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=wimboro/aio-script@github)](https://gitads.dev/v1/ad-track?source=wimboro/aio-script@github)
+
 # AIO Installer
 
 Welcome to the **AIO** setup script — a powerful, automated installation tool for essential development tools and environments on Ubuntu-based systems.
