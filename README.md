@@ -1,3 +1,4 @@
+<!-- GitAds-Verify: MNWAWW434KY93EKQLA6WO5J5R7JVEEE6 -->
 # AIO Installer
 
 Welcome to the **AIO** setup script — a powerful, automated installation tool for essential development tools and environments on Ubuntu-based systems.
